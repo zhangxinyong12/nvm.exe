@@ -1,7 +1,7 @@
 
 # nvm node版本管理工具
 安装包 nvm-setup.exe 
-常用命令
+## 常用命令
 ```  bash
 # 查看本地安装的所有版本
 nvm list
